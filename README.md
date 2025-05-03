@@ -1,4 +1,8 @@
-## Hi there 👋
+## ¡Hola Mundo! 👋
+
+
+## Sobre mi
+- 🎓 Actualmente cursando el segundo año de Analista Programador Universitario (APU)
 
 <!--
 **MaguiScotto/MaguiScotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
